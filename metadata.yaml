@@ -1,0 +1,27 @@
+_repo: Uber-die-burgerliche-Verbesserung-der-Weiber_53912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hippel, Theodor Gottlieb von
+    alias: Von Hippel, Theodor Gottlieb
+    birthdate: 1741
+    deathdate: 1796
+    gutenberg_agent_id: '47617'
+    url: http://www.gutenberg.org/2009/agents/47617
+description: ''
+gutenberg_issued: '2017-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53912'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women''s rights -- History'
+- !lcc 'HQ'
+- !lcsh 'Women -- Social conditions'
+- !lcsh 'Equality'
+- GITenberg
+title: Über die bürgerliche Verbesserung der Weiber
+url: http://www.gutenberg.org/ebooks/53912
